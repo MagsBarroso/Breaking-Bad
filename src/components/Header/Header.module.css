@@ -1,0 +1,10 @@
+.header {
+    width: 100%;
+    text-align: center;
+    padding: 4rem 0;
+}
+
+.header img {
+    height: 7rem;
+    width: auto;
+}
